@@ -1,0 +1,55 @@
+body{
+  background-color: #bfbf46;
+  padding: 0 5rem;
+}
+.drum{
+  width: 6rem;
+  height: 6em;
+  margin: 10rem 1rem 4rem;
+}
+.pressed{
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: .5;
+}
+
+.a{
+background-image: url("images/Chrysanthemum.jpg");
+background-size: cover;
+background-position: center;
+}
+.s{
+  background-image: url("images/Desert.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.d{
+background-image: url("images/Hydrangeas.jpg");
+background-size: cover;
+background-position: center;
+}
+.f{
+background-image: url("images/Jellyfish.jpg");
+background-size: cover;
+background-position: center;
+}
+.g{
+background-image: url("images/Koala.jpg");
+background-size: cover;
+background-position: center;}
+.h{
+background-image: url("images/Lighthouse.jpg");
+background-size: cover;
+background-position: center;
+
+}
+.j{
+background-image: url("images/Penguins.jpg");
+background-size: cover;
+background-position: center;
+
+}
+.k{
+background-image: url("images/Tulips.jpg");
+background-size: cover;
+background-position: center;
+}
